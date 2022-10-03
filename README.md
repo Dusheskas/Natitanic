@@ -1,4 +1,4 @@
-# [Портфолио](https://dusheskas.github.io/Superpeer) веб-разработчика
+# [Портфолио](https://dusheskas.github.io/Natitanic/) веб-разработчика
 
 - Есть адаптив до 320px
 - Использовалась методология БЭМ
